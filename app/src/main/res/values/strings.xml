@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MobileTestZemoga</string>
+    <string name="detail_post_title">Post Detail</string>
+    <string name="title_post">All Posts</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="image_favorite_selected">Post Favorite</string>
+    <string name="floating_button_delete">Delete all posts</string>
+    <string name="title">Title</string>
+    <string name="Description">Description</string>
+    <string name="Comments">Comments</string>
+    <string name="Add">Add</string>
+    <string name="Delete">Delete</string>
+</resources>
